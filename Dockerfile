@@ -1,5 +1,5 @@
 FROM php:cli-alpine
-MAINTAINER Yann LUCAS <contact@yann-lucas.fr>
+MAINTAINER Matthieu Leorat <matthieu.leorat@pm.me>
 
 ARG DEPLOYER_VERSION=7.0.0
 
